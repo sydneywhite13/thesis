@@ -1,0 +1,11 @@
+number,title,artist,danceability,energy,key,loudness,mode,speechiness,acoustiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,pronoun 
+1, Where the Wild Things Are, Luke Combs , 0.708, 0.731, 3, -4.872,1, 0.0345, 0.0189, 4.47e-06, 0.129, 0.379, 116.975, 239533, 4, 
+2, I'm Not Pretty, Megan Moroney , 0.573, 0.795, 10, -5.561,1, 0.0558, 0.129, 1.78e-05, 0.186, 0.705, 128.101, 181067, 4, 
+3, World on Fire, Nate Smith , 0.461, 0.887, 11, -4.871,0, 0.0429, 0.000219, 0, 0.104, 0.411, 95.964, 189987, 4, 
+4, The Painter, Cody Johnson , 0.512, 0.709, 2, -5.766,1, 0.0329, 0.0415, 4.25e-06, 0.107, 0.261, 97.981, 211413, 4, 
+5, Bigger Mistakes, Mitchell Tenpenny , 0.604, 0.881, 11, -4.036,1, 0.0544, 0.0272, 0, 0.263, 0.74, 104.942, 179229, 4, 
+6, This Town's Been Too Good To Us, Dylan Scott , 0.696, 0.555, 11, -7.035,1, 0.0353, 0.0603, 0, 0.175, 0.577, 104.989, 191627, 4, 
+7, your place, Ashley Cooke , 0.448, 0.632, 5, -4.083,1, 0.0297, 0.134, 0, 0.317, 0.418, 76.968, 182086, 4, 
+8, Country Boy's Dream Girl, Ella Langley , 0.591, 0.756, 8, -4.573,1, 0.0403, 0.234, 1.44e-06, 0.097, 0.46, 139.991, 183907, 3, 
+9, Out Of That Truck, Carrie Underwood , 0.563, 0.755, 5, -4.504,1, 0.0253, 0.0134, 0, 0.399, 0.811, 92.988, 177400, 4, 
+10, If You Were A Song, Abbey Cone , 0.684, 0.686, 4, -4.833,1, 0.0287, 0.171, 0, 0.173, 0.501, 110.476, 259876, 4, 

@@ -1,0 +1,11 @@
+number,title,artist,danceability,energy,key,loudness,mode,speechiness,acoustiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,pronoun 
+1, Already Over, Mike Shinoda , 0.486, 0.942, 0, -3.824,1, 0.0536, 0.000449, 0, 0.304, 0.747, 150.036, 160640, 4, 
+2, Everything I Do Is For You, Amira Elfeky , 0.377, 0.737, 5, -4.774,0, 0.0516, 0.000123, 0.000122, 0.12, 0.298, 147.867, 156350, 4, 
+3, Young In America, Barns Courtney , 0.563, 0.858, 8, -6.697,1, 0.159, 0.00428, 0, 0.0938, 0.366, 139.964, 224913, 4, 
+4, ballad of a homeschooled girl, Olivia Rodrigo , 0.385, 0.873, 1, -3.331,1, 0.069, 0.0557, 0, 0.353, 0.469, 120.393, 203369, 4, 
+5, What Now, Brittany Howard , 0.748, 0.937, 2, -4.662,1, 0.0866, 0.147, 0.00202, 0.0975, 0.66, 99.97, 226680, 3, 
+6, Nothing Matters, The Last Dinner Party , 0.587, 0.798, 2, -5.109,1, 0.037, 0.0329, 0.000134, 0.184, 0.6, 101.161, 181750, 4, 
+7, Angry, The Rolling Stones , 0.589, 0.89, 4, -3.467,1, 0.0774, 0.000658, 5.44e-06, 0.0357, 0.709, 113.088, 226736, 4, 
+8, Normal People Things, Lovejoy , 0.399, 0.994, 1, -2.923,1, 0.116, 0.000416, 0.000501, 0.251, 0.417, 180.052, 164845, 4, 
+9, ONE MORE TIME, blink-182 , 0.628, 0.497, 2, -5.794,1, 0.0271, 0.114, 0, 0.112, 0.157, 114.704, 208115, 5, 
+10, Salt, Teen Jesus and the Jean Teasers , 0.53, 0.548, 0, -5.196,1, 0.0282, 0.0356, 0, 0.115, 0.248, 160.012, 187488, 4, 
